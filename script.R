@@ -1,6 +1,3 @@
-#Distance-based Redundancy Analysis (db-RDA)
-#Script used in Jardim de Queiroz, L. et al. (2017) Multifactorial genetic divergence processes drive the onset of speciation in an Amazonian fish. Plos One
-
 #Libraries:
 library("vegan")
 library("PCNM") 
